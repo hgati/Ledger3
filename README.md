@@ -14,7 +14,7 @@ In keeping with Ledger's principle of letting you do things your way, this plugi
   - The ability to run common reports from the Command Palette (currently just a Ledger Balance report with no arguments, but it's easy to add more yourself!)
 
 ## How To Install This PlugIn In Sublime Text 3
-    - [Sublime Text 3: How to install plugins from Github
+    - How To: [Sublime Text 3 How to install plugins from Github
 ](https://stackoverflow.com/a/44441455)
 
 ## Things I want to implement next:
