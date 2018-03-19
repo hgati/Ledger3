@@ -13,6 +13,9 @@ In keeping with Ledger's principle of letting you do things your way, this plugi
   - Smart, automatic indentation of account names, and automatic un-indentation on typing a date.
   - The ability to run common reports from the Command Palette (currently just a Ledger Balance report with no arguments, but it's easy to add more yourself!)
 
+## How To Install This PlugIn In Sublime Text 3
+    - https://stackoverflow.com/a/44441455
+
 ## Things I want to implement next:
 - Add automated transactions and periodic transactions into the syntax definition
 - What I currently call "strict" mode is really ledger's "explicit" mode, which requires pre-declarations. Ledger's "strict" mode actually allows entities to be defined in cleared transactions. This shouldn't be hard to implement.

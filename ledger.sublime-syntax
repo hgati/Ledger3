@@ -1,7 +1,7 @@
 %YAML 1.2
 ---
 name: Ledger3
-file_extensions: [ldg, ledger]
+file_extensions: [ldg, ledger, journal]
 scope: source.ledger
 # TODO: make keywords case-insensitive?
 
