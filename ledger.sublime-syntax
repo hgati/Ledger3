@@ -6,7 +6,7 @@ scope: source.ledger
 # TODO: make keywords case-insensitive?
 
 variables:
-  account: '[\w\d:]+(?:\s[\w\d:]+)*' # Regex to match an account name
+  account: '[\w\d가-힣:]+(?:\s[\w\d가-힣:]+)*' # Regex to match an account name
   # TODO: look up all characters allowed in account name
   commodity: '[^\s\d.,;:?!+*/^&|=@<>\](){}-]+' # Regex to match commodity name
   # TODO: allow quoted commodity names
